@@ -26,7 +26,7 @@ body{
 }
 /* banner_start */
 .banner{
-    background: url("/images/banner.jpg") no-repeat center;
+    background: url("../images/banner.jpg") no-repeat center;
     background-size: cover;
     background-color: #fafaf9;
     padding: 0 0 70px;
